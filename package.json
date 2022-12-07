@@ -1,5 +1,5 @@
 {
-  "name": "Image Generator",
+  "name": "image-generator",
   "version": "1.0.0",
   "description": "Generate images using AI",
   "main": "index.js",
